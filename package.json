@@ -1,0 +1,22 @@
+{
+  "name": "cosmos-websocket",
+  "description": "",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "simpleCosmos-ws.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangdv2429/cosmos-websocket.git"
+  },
+  "keywords": [],
+  "author": "hoangdv2429",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangdv2429/cosmos-websocket/issues"
+  },
+  "homepage": "https://github.com/hoangdv2429/cosmos-websocket#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ws": "^8.6.0"
+  }  
+}
